@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCMp2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+ 	<string name="gcm_registered">GCM: Dispositivo registrado satisfactoriamente!</string>
+    <string name="gcm_unregistered">GCM: Eliminación del registro del dispositivo satisfactorio!</string>
+    <string name="gcm_message">GCM: Tienes mensajes!</string>
+    <string name="gcm_error">GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">GCM: error recuperable (%1$s).</string>
+    <string name="gcm_deleted">GCM: Servidor elimino %1$d mensajes pendientes!</string>
+    <string name="server_registering">Intentando (intento %1$d/%2$d)para registrar en el Zoga Server.</string>
+    <string name="server_registered">Zoga Server: Dispositivo agregado satisfactoriamente!</string>
+    <string name="server_unregistered">Zoga Server: Dispositivo eliminado satisfactoriamente!</string>
+    <string name="server_register_error">NO se pudo registrar el dispositivo despues de %1$d intentos.</string>
+    <string name="server_unregister_error">NO se pudo eliminar el dispositivo del Zoga server(%1$s).</string>
+    <string name="options_register">Registrado</string>
+    <string name="options_unregister">SIn registrar</string>
+    <string name="options_clear">Limpiar</string>
+    <string name="options_exit">Salir</string>
+</resources>
